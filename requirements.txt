@@ -1,3 +1,5 @@
 streamlit
-duckdb
+duckdb<1.2.0
 pandas
+pyarrow
+numpy<2.0.0
